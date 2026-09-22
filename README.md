@@ -20,8 +20,8 @@ Este proyecto servirá como base para desarrollar un sistema sencillo de gestió
 
 ## Funcionalidades pendientes
 
-- [ ] Implementar préstamo de libros.
-- [ ] Implementar devolución de libros.
-- [ ] Mostrar información completa de los libros.
-- [ ] Manejar excepciones personalizadas.
-- [ ] Mejorar el método toString().
+- [x] Implementar préstamo de libros.
+- [x] Implementar devolución de libros.
+- [x] Mostrar información completa de los libros.
+- [x] Manejar excepciones personalizadas.
+- [x] Mejorar el método toString().
